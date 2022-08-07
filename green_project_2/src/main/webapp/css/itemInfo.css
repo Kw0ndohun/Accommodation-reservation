@@ -1,0 +1,38 @@
+
+
+.name{
+	font-size:35px;
+}
+.info{
+	position: relative;
+    left: 620px;
+    top: -300px;
+	font-size:16px;
+	text-align: left;
+}
+.info > *{
+	margin: 15px;
+}
+.www{
+	position: relative;
+    left: -250px;
+    top: 50px;
+    
+}
+#itemInfo{
+	height: 65vh;
+	border-bottom: solid 1px;
+}
+.resinfo{
+	font-size:30px;
+}
+.address{
+	font-size:20px;
+}
+
+.w-btn{
+	width: 100px;
+	height: 40px;
+	background-color: rgb(100,100,100,0.5);
+	border:none;
+}

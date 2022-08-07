@@ -1,0 +1,47 @@
+
+
+.name{
+	font-size:35px;
+}
+.info{
+	position: relative;
+    left: 620px;
+    top: -300px;
+	font-size:16px;
+	text-align: left;
+}
+.info > *{
+	margin: 15px;
+}
+.www{
+	position: relative;
+    left: -250px;
+    top: 50px;
+    
+}
+.resvationInfo{
+	text-align:left;
+	height: 55vh;
+	border-bottom: solid 1px;
+	border-top: solid 1px;
+	font-size:25px;
+	width: 25vw;
+	margin: 20px;
+	position: relative;
+	left: 30%;
+	padding: 20px;
+	background-color:  rgb(100,100,100,0.2);
+}
+.resinfo{
+	font-size:30px;
+}
+.address{
+	font-size:20px;
+}
+
+.w-btn{
+	width: 80px;
+	height: 30px;
+	background-color: rgb(100,100,100,0.3);
+	border:none;
+}
