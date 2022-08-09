@@ -41,7 +41,7 @@
 <meta property="og:description"
 	content="숙박업소의 실시간 특가를 SB Project에서 한 눈에 비교하세요.">
 <meta property="og:image" content="">
-
+ 
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/common.css">
 <link rel="stylesheet" href="css/reset.css">
